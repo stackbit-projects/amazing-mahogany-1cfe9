@@ -13,7 +13,7 @@ sections:
     image: images/gordon-norman.png
     image_alt: A smiling woman
     media_position: right
-    media_width: sixty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
