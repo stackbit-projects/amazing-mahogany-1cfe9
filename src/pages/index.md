@@ -170,7 +170,7 @@ sections:
       If you would like more information about my services and pricing, please
       contact me using the form below.
     content_align: left
-    form_position: top
+    form_position: left
     form_width: fourty
     form_layout: stacked
     enable_card: true
